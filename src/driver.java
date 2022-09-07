@@ -17,7 +17,7 @@ public class driver {
 
         while (true) {
             System.out.println(
-                    "Main Menu:\nA. Newton Second Law Calculator\nB. Projectile Maxium Height Calculator\nC. Object Hanging by Rope Tension Calculator\nX. Exit \n");
+                    "Main Menu:\nA. Newton Second Law Calculator\nB. Projectile Maximum Height Calculator\nC. Object Hanging by Rope Tension Calculator\nX. Exit \n");
             System.out.print("Enter your choice: ");
             inPut = input.next().charAt(0);
             System.out.print("\n");
